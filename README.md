@@ -1,2 +1,2 @@
 # PolyMutate
-Polymorphic mutation engine
+PolyMutate is a polymorphic mutation engine, capable of taking any file with text and encrypting it. For example, if I were to encrypt a python file, I can run it as polymorphic code from the mutation engine and it would run correctly while the actual code is encrypted. The encryption code also shuffles everytime the code is ran, so be careful to not leave your code encrypted, or you will not be able to decrypt it. This method is a very dangerous method of bypassing antiviruses and security within a computer, for the whole program is encrypted. This engine is only capable of encrypting other files, not itself. Have fun, and be careful.
